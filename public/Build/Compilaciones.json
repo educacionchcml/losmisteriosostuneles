@@ -1,0 +1,15 @@
+{
+"companyName": "Manzana de la Luces",
+"productName": "Los misteriosos túneles",
+"productVersion": "1.0",
+"dataUrl": "Compilaciones.data.unityweb",
+"wasmCodeUrl": "Compilaciones.wasm.code.unityweb",
+"wasmFrameworkUrl": "Compilaciones.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
